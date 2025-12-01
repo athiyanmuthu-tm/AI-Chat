@@ -1,0 +1,5 @@
+com\example\aichat\model\AskResponse.class
+com\example\aichat\service\ChatService.class
+com\example\aichat\model\AskRequest.class
+com\example\aichat\controller\ChatController.class
+com\example\aichat\AiChatApplication.class
